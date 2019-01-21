@@ -6,7 +6,7 @@ An old text adventure mud I used to hack away on and run. This is a derivative o
 
 I'm sure there's more to this, but this is what I can remember off the top of my head.
 
-* Religous quests
+* Religous quests (rel_quest.c)
   * Randomly generated dungeons with an objective
   * Point earned for special items
 * Crafting system
@@ -16,5 +16,5 @@ I'm sure there's more to this, but this is what I can remember off the top of my
   * Previously had to train
 * Memory corruption fixes
 * Port to windows
-* Database storage instead of files
-  * Lost :(
+* Database storage instead of files (sqldb.c)
+  * DB Structure lost :(

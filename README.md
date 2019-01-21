@@ -9,12 +9,12 @@ I'm sure there's more to this, but this is what I can remember off the top of my
 * Religous quests (rel_quest.c)
   * Randomly generated dungeons with an objective
   * Point earned for special items
-* Crafting system
-  * Randrom drops of crafting supplies
-  * Random crafting (I think)
+* Crafting system (crafting.c)
+  * Skills to skin hides from monster corpses
+  * Random crafting
 * Skills learned by usage
   * Previously had to train
-* Memory corruption fixes
+* Memory corruption fixes (using mmgr.cpp)
 * Port to windows
 * Database storage instead of files (sqldb.c)
   * DB Structure lost :(

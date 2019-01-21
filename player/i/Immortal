@@ -1,0 +1,654 @@
+#PLAYER
+Nm           Immortal~
+ShtDsc       ~
+LngDsc       ~
+Dscr         ~
+Prmpt        %r %R>~
+Sx           1
+Cla          20
+Mlt          20
+Race         Pixie~
+Clan         0
+Updated      130
+Clvl         0
+Ctmr         0
+Stun         0 0 0 0 0
+ResAcid      0
+ResHoly      0
+ResMagic     0
+ResFire      0
+ResEnergy    0
+ResWind      0
+ResWater     0
+ResIllusion  0
+ResDispel    0
+ResEarth     0
+ResPsychic   0
+ResPoison    0
+ResBreath    0
+ResSUmmon    0
+ResPhysical  0
+ResExplosive 0
+ResSong      0
+ResNagarom   0
+ResUnholy    0
+ResClan      0
+WizLev       114
+Lvl          114
+Pkill        0
+PoisonLevel  0
+Antidisarm   0
+Mounted      0
+Mountcharmed 0
+Mountshort   ~
+Trst         2146000002
+Security     100
+Wizbt        0
+ArenaWins    0
+ArenaLoses   0
+MobKills     37
+Wizbt        0
+Playd        29147873
+Note         1158220636
+Room         12001
+HpMnMvBp     30000 29800 10000 9800 124 124 20 -46
+Gold         496910
+GRank        2
+Guild        BALANCE~
+RNumber      2
+Recall       0
+Rtimer       0
+Exp          2450
+Act          637670984
+Act2         0
+AffdBy       0
+AffdBy2      2
+AffdBy3      0
+AffdBy4      256
+AffdByp      0
+AffdByw      0
+ImmBits      0
+ResBits      0
+VulBits      0
+Shields      0
+Pos         8
+Prac         14
+SavThr       0
+Align        -760
+Hit          200
+Dam          200
+Armr         100
+Wimp         0
+Deaf         33554432
+Corpses      1
+QuestPnts    48650
+QuestNext    0
+QuestCount   0
+QuestObj     0
+QuestMob     0
+QuestGiver   25046
+RQuestPnts   44
+RQuestNext   0
+Paswd        Ah4LiEWT3GBMs~
+Speak        0
+Learn        7
+Bmfin        ~
+Bmfout       ~
+Bmfsin       ~
+Bmfsout      ~
+Bank         99999403
+BankShares   0
+Immskll      mpstat mpcommands finger hlist sedit countcommands timequake guard [ timelord stormlord = tl bodybag scan ban vused vnum restrict astatus authorize advance imtlset trust dostat allow deny disconnect force freeze fset at atall log mset newcorpse lset noemote notell notestat numlock oload oset purge reboo reboot restore shutdow shutdown silence sla slay sset sstat string transfer users wizify wizlock disable iscore echo memory mload mfind mstat lstat mwhere newlock ofind ostat owhere pecho rename wizpwd smite dog seize update peace pload top pwhere recho realmemory return rset rstat showcorrupt snoop switch wizinvis wrlist marry divorce makelegend astrip bamfin bamfout bamfsin bamfsout goto holylight immtalk : champion - demigod ] bestow aedit cedit redit oedit medit asave alist resets reledit resetxp ~
+Ttle         &~
+WhoTxt       @~
+AtrPrm       35 35 35 35 35
+AtrMd        50 50 50 50 50
+Cond         0 16 17
+Pglen        30
+Lang        100 'common'
+Lang        100 'human'
+Lang        100 'dwarvish'
+Lang        100 'elvish'
+Lang        100 'gnomish'
+Lang        100 'dragon'
+Lang        100 'demon'
+Lang        100 'ogre'
+Lang        100 'drow'
+Lang        100 'elder'
+Lang        100 'pixie'
+Lang        100 'hobbit'
+Lang        100 'minotaur'
+Lang        100 'lizard'
+Lang        100 'halfling'
+Lang        100 'feline'
+Lang        100 'canine'
+Lang        100 'angel'
+Lang        100 'orc'
+Lang        100 'magick'
+Lang        100 'shadowspeak'
+Lang        100 'spiritspeak'
+Lang        100 'enlightened'
+Lang        100 'satanic'
+Lang        100 'animalspeak'
+Lang        100 'bretonnian'
+Lang        100 'gargoyle'
+Skll        1000 'reserved'
+Skll        1000 'acid blast'
+Skll        1000 'animate dead'
+Skll        1000 'armor'
+Skll        1000 'astral walk'
+Skll        1000 'bless'
+Skll        1000 'blindness'
+Skll        1000 'bloodbath'
+Skll        1000 'burning hands'
+Skll        1000 'call lightning'
+Skll        1000 'cause critical'
+Skll        1000 'cause light'
+Skll        1000 'cause serious'
+Skll        1000 'change sex'
+Skll        1000 'charm person'
+Skll        1000 'chill touch'
+Skll        1000 'colour spray'
+Skll        1000 'continual light'
+Skll        1000 'control weather'
+Skll        1000 'create food'
+Skll        1000 'create spring'
+Skll        1000 'create water'
+Skll        1000 'cure blindness'
+Skll        1000 'cure critical'
+Skll        1000 'cure light'
+Skll        1000 'cure poison'
+Skll        1000 'cure serious'
+Skll        1000 'curse'
+Skll        1000 'detect evil'
+Skll        1000 'detect hidden'
+Skll        1000 'detect invis'
+Skll        1000 'detect magic'
+Skll        1000 'detect poison'
+Skll        1000 'mining'
+Skll        1000 'dispel magic'
+Skll        1000 'earthquake'
+Skll        1000 'enchant weapon'
+Skll        1000 'energy drain'
+Skll        1000 'faerie fire'
+Skll        1000 'faerie fog'
+Skll        1000 'fireball'
+Skll        1000 'fireshield'
+Skll        1000 'flamestrike'
+Skll        1000 'fly'
+Skll        1000 'gate'
+Skll        1000 'giant strength'
+Skll        1000 'goodberry'
+Skll        1000 'harm'
+Skll        1000 'heal'
+Skll        1000 'iceshield'
+Skll        1000 'icestorm'
+Skll        1000 'identify'
+Skll        1000 'vibrate'
+Skll        1000 'infravision'
+Skll        1000 'incinerate'
+Skll        1000 'invis'
+Skll        1000 'know alignment'
+Skll        1000 'lightning bolt'
+Skll        1000 'locate object'
+Skll        1000 'magic missile'
+Skll        1000 'mana'
+Skll        1000 'mass invis'
+Skll        1000 'pass door'
+Skll        1000 'aura of peace'
+Skll        1000 'permenancy'
+Skll        1000 'poison'
+Skll        1000 'portal'
+Skll        1000 'protection evil'
+Skll        1000 'refresh'
+Skll        1000 'remove curse'
+Skll        1000 'sanctuary'
+Skll        1000 'scry'
+Skll        1000 'shield'
+Skll        1000 'shocking grasp'
+Skll        1000 'shockshield'
+Skll        1000 'sleep'
+Skll        1000 'spell bind'
+Skll        1000 'stone skin'
+Skll        1000 'summon'
+Skll        1000 'teleport'
+Skll        1000 'ventriloquate'
+Skll        1000 'weaken'
+Skll        1000 'word of recall'
+Skll        1000 'acid breath'
+Skll        1000 'fire breath'
+Skll        1000 'frost breath'
+Skll        1000 'gas breath'
+Skll        1000 'lightning breath'
+Skll        1000 'summon swarm'
+Skll        1000 'summon pack'
+Skll        1000 'summon demon'
+Skll        1000 'backstab'
+Skll        1000 'bash'
+Skll        1000 'disarm'
+Skll        1000 'dodge'
+Skll        1000 'enhanced dodge'
+Skll        1000 'dual'
+Skll        1000 'eighth attack'
+Skll        1000 'enhanced damage'
+Skll        1000 'enhanced damage two'
+Skll        1000 'enhanced damage three'
+Skll        1000 'enhanced hit'
+Skll        1000 'enhanced hit two'
+Skll        1000 'feed'
+Skll        1000 'gorge'
+Skll        1000 'fifth attack'
+Skll        1000 'fifth strike'
+Skll        1000 'fourth attack'
+Skll        1000 'fourth strike'
+Skll        1000 'hide'
+Skll        1000 'iron grip'
+Skll        1000 'kick'
+Skll        1000 'back kick'
+Skll        1000 'claw'
+Skll        1000 'bite'
+Skll        1000 'head butt'
+Skll        1000 'parry'
+Skll        1000 'enhanced parry'
+Skll        1000 'peek'
+Skll        1000 'pick lock'
+Skll        1000 'poison weapon'
+Skll        1000 'depoison weapon'
+Skll        1000 'punch'
+Skll        1000 'rescue'
+Skll        1000 'second attack'
+Skll        1000 'second strike'
+Skll        1000 'seventh attack'
+Skll        1000 'sixth attack'
+Skll        1000 'sneak'
+Skll        1000 'steal'
+Skll        1000 'third attack'
+Skll        1000 'third strike'
+Skll        1000 'general purpose'
+Skll        1000 'high explosive'
+Skll        1000 'adrenaline control'
+Skll        1000 'agitation'
+Skll        1000 'aura sight'
+Skll        1000 'awe'
+Skll        1000 'ballistic attack'
+Skll        1000 'biofeedback'
+Skll        1000 'cell adjustment'
+Skll        1000 'chameleon power'
+Skll        1000 'chaos field'
+Skll        1000 'combat mind'
+Skll        1000 'complete healing'
+Skll        1000 'control flames'
+Skll        1000 'create sound'
+Skll        1000 'death field'
+Skll        1000 'detonate'
+Skll        1000 'disintegrate'
+Skll        1000 'displacement'
+Skll        1000 'domination'
+Skll        1000 'ectoplasmic form'
+Skll        1000 'ego whip'
+Skll        1000 'energy containment'
+Skll        1000 'enhance armor'
+Skll        1000 'enhanced strength'
+Skll        1000 'flesh armor'
+Skll        1000 'heighten senses'
+Skll        1000 'inertial barrier'
+Skll        1000 'inflict pain'
+Skll        1000 'intellect fortress'
+Skll        1000 'lend health'
+Skll        1000 'levitation'
+Skll        1000 'mental barrier'
+Skll        1000 'mind thrust'
+Skll        1000 'project force'
+Skll        1000 'psionic blast'
+Skll        1000 'psychic crush'
+Skll        1000 'psychic drain'
+Skll        1000 'psychic healing'
+Skll        1000 'shadow form'
+Skll        1000 'share strength'
+Skll        1000 'thought shield'
+Skll        1000 'ultrablast'
+Skll        1000 'cancellation'
+Skll        1000 'throw'
+Skll        1000 'turn undead'
+Skll        1000 'mental block'
+Skll        1000 'patch'
+Skll        1000 'doomshield'
+Skll        1000 'image'
+Skll        1000 'unholy strength'
+Skll        1000 'utopian healing'
+Skll        1000 'flamesphere'
+Skll        1000 'bash door'
+Skll        1000 'mental drain'
+Skll        1000 'drain life'
+Skll        1000 'holy strength'
+Skll        1000 'curse of nature'
+Skll        1000 'detect good'
+Skll        1000 'protection good'
+Skll        1000 'shield block'
+Skll        1000 'hunt'
+Skll        1000 'enchanted song'
+Skll        1000 'forging'
+Skll        1000 'mass shield'
+Skll        1000 'gouge'
+Skll        1000 'rake eyes'
+Skll        1000 'retreat'
+Skll        1000 'holy sword'
+Skll        1000 'summon angel'
+Skll        1000 'holy fires'
+Skll        1000 'true sight'
+Skll        1000 'blade barrier'
+Skll        1000 'alchemy'
+Skll        1000 'inscription'
+Skll        1000 'flame blade'
+Skll        1000 'chaos blade'
+Skll        1000 'frost blade'
+Skll        1000 'stun'
+Skll        1000 'strangle'
+Skll        1000 'berserk'
+Skll        1000 'web'
+Skll        1000 'entangle'
+Skll        1000 'dark blessing'
+Skll        1000 'bio-acceleration'
+Skll        1000 'confusion'
+Skll        1000 'mind probe'
+Skll        1000 'haste'
+Skll        1000 'trip'
+Skll        1000 'dirt kick'
+Skll        1000 'chain lightning'
+Skll        1000 'meteor swarm'
+Skll        1000 'psychic quake'
+Skll        1000 'fumble'
+Skll        1000 'dancing lights'
+Skll        1000 'shadow walk'
+Skll        1000 'circle'
+Skll        1000 'dim mak'
+Skll        1000 'summon shadow'
+Skll        1000 'summon beast'
+Skll        1000 'summon trent'
+Skll        1000 'shatter'
+Skll        1000 'molecular unbinding'
+Skll        1000 'phase shift'
+Skll        1000 'disrupt'
+Skll        1000 'soulstrike'
+Skll        1000 'healing hands'
+Skll        1000 'prayer'
+Skll        1000 'plague'
+Skll        1000 'unholy curse'
+Skll        1000 'unholy wrath'
+Skll        1000 'unholy prayer'
+Skll        1000 'golden armor'
+Skll        1000 'golden sanctuary'
+Skll        1000 'chi blast'
+Skll        1000 'chi storm'
+Skll        1000 'chi healing'
+Skll        1000 'chi wave'
+Skll        1000 'shockwave'
+Skll        1000 'sunburst'
+Skll        1000 'phantom form'
+Skll        1000 'spark'
+Skll        1000 'quickness'
+Skll        1000 'ghost shield'
+Skll        1000 'remove invis'
+Skll        1000 'vine travel'
+Skll        1000 'mist'
+Skll        1000 'scrye'
+Skll        1000 'shadow image'
+Skll        1000 'double backstab'
+Skll        1000 'weaponmaster'
+Skll        1000 'devour'
+Skll        1000 'palm'
+Skll        1000 'spectral wings'
+Skll        1000 'blindfold'
+Skll        1000 'blade of doom'
+Skll        1000 'slit'
+Skll        1000 'assassinate'
+Skll        1000 'visions'
+Skll        1000 'thick skin'
+Skll        1000 'paralyse'
+Skll        1000 'malignify'
+Skll        1000 'cloaking'
+Skll        1000 'break weapon'
+Skll        1000 'shadow plane'
+Skll        1000 'metamorph'
+Skll        1000 'lore'
+Skll        1000 'scrolls'
+Skll        1000 'wands'
+Skll        1000 'staves'
+Skll        1000 'snare'
+Skll        1000 'untangle'
+Skll        1000 'slam'
+Skll        1000 'rage'
+Skll        1000 'quickburst'
+Skll        1000 'improved concentration'
+Skll        1000 'bloodthirsty'
+Skll        1000 'chant'
+Skll        1000 'cause panic'
+Skll        1000 'solidify'
+Skll        1000 'cone of frost'
+Skll        1000 'cloud of cold'
+Skll        1000 'winters chill'
+Skll        1000 'summon ice elemental'
+Skll        1000 'tomb rot'
+Skll        1000 'icequake'
+Skll        1000 'summon fire elemental'
+Skll        1000 'daemonic might'
+Skll        1000 'blood omen'
+Skll        1000 'summon greater demon'
+Skll        1000 'daemonic possession'
+Skll        1000 'flash burn'
+Skll        1000 'demonfire'
+Skll        1000 'circle of fire'
+Skll        1000 'tortured soul'
+Skll        1000 'age'
+Skll        1000 'embalm'
+Skll        1000 'gravebind'
+Skll        1000 'summon water elemental'
+Skll        1000 'summon air elemental'
+Skll        1000 'summon dust elemental'
+Skll        1000 'summon dragon'
+Skll        1000 'control dragon'
+Skll        1000 'summon wolf'
+Skll        1000 'summon hawk'
+Skll        1000 'summon tiger'
+Skll        1000 'control wolf'
+Skll        1000 'control hawk'
+Skll        1000 'control tiger'
+Skll        1000 'control trent'
+Skll        1000 'divining'
+Skll        1000 'rapid healing'
+Skll        1000 'unholy fires'
+Skll        1000 'stigeon mists'
+Skll        1000 'satanic caress'
+Skll        1000 'control undead'
+Skll        1000 'unholy sword'
+Skll        1000 'satanic inferno'
+Skll        1000 'shockblade'
+Skll        1000 'pestilence'
+Skll        1000 'bullet'
+Skll        1000 'armour piercing bullet'
+Skll        1000 'emp bullet'
+Skll        1000 'energy pulse bullet'
+Skll        1000 'laser beam bullet'
+Skll        1000 'particle beam bullet'
+Skll        1000 'flame thrower bullet'
+Skll        1000 'stun gun bullet'
+Skll        1000 'mortar bullet'
+Skll        1000 'freeze bullet'
+Skll        1000 'nails bullet'
+Skll        1000 'white light bullet'
+Skll        1000 'nuclear bullet'
+Skll        1000 'musket bullet'
+Skll        1000 'cannon bullet'
+Skll        1000 'crossbow bullet'
+Skll        1000 'dart bullet'
+Skll        1000 'pie bullet'
+Skll        1000 'arrow bullet'
+Skll        1000 'breathe fire'
+Skll        1000 'race fly'
+Skll        1000 'wrath of god'
+Skll        1000 'aura of anti-magic'
+Skll        1000 'dispel blade'
+Skll        1000 'holy protection'
+Skll        1000 'improved hide'
+Skll        1000 'stealth'
+Skll        1000 'voodoo'
+Skll        1000 'soul bind'
+Skll        1000 'blood gout'
+Skll        1000 'bloodshield'
+Skll        1000 'scent'
+Skll        1000 'friend of nature'
+Skll        1000 'thunder strike'
+Skll        1000 'natures blessing'
+Skll        1000 'bark skin'
+Skll        1000 'bend light'
+Skll        1000 'create illusion'
+Skll        1000 'swiftness'
+Skll        1000 'cloud of healing'
+Skll        1000 'earthblast'
+Skll        1000 'tale of terror'
+Skll        1000 'power leak'
+Skll        1000 'mana shield'
+Skll        1000 'disguise'
+Skll        1000 'holy enchantment'
+Skll        1000 'unholy enchantment'
+Skll        1000 'transmutation'
+Skll        1000 'psionic casting'
+Skll        1000 'daggers of pain'
+Skll        1000 'spectral armor'
+Skll        1000 'wisp of protection'
+Skll        1000 'vortex'
+Skll        1000 'two handed'
+Skll        1000 'home travel'
+Skll        1000 'war chant'
+Skll        1000 'shadow bolt'
+Skll        1000 'shadow storm'
+Skll        1000 'improved invis'
+Skll        1000 'iceball'
+Skll        1000 'breathe water'
+Skll        1000 'mark'
+Skll        1000 'rune recall'
+Skll        1000 'multiburst'
+Skll        1000 'nagaroms curse'
+Skll        1000 'search'
+Skll        1000 'lullaby'
+Skll        1000 'smite evil'
+Skll        1000 'smite good'
+Skll        1000 'deadly poison'
+Skll        1000 'volcanic blast'
+Skll        1000 'randomshield'
+Skll        1000 'primal scream'
+Skll        1000 'sonic blast'
+Skll        1000 'sonic boom'
+Skll        1000 'hellfire'
+Skll        1000 'resurrection'
+Skll        1000 'demonshield'
+Skll        1000 'acidshield'
+Skll        1000 'shriek'
+Skll        1000 'chop'
+Skll        1000 'occulutus visum'
+Skll        1000 'titan strength'
+Skll        1000 'timequake'
+Skll        1000 'mounted combat'
+Skll        1000 'earthshield'
+Skll        1000 'leaf shield'
+Skll        1000 'leaf strike'
+Skll        1000 'restoration'
+Skll        1000 'shards of glass'
+Skll        1000 'mind of fanoom'
+Skll        1000 'circle of love'
+Skll        1000 'enhanced dual'
+Skll        1000 'luck shield'
+Skll        1000 'proficiency hit'
+Skll        1000 'proficiency slice'
+Skll        1000 'proficiency pierce'
+Skll        1000 'proficiency slash'
+Skll        1000 'proficiency crush'
+Skll        1000 'proficiency chop'
+Skll        1000 'tongues'
+Skll        1000 'liquid skin'
+Skll        1000 'spiritual hammer'
+Skll        1000 'angelic aura'
+Skll        1000 'waterspike'
+Skll        1000 'sixth strike'
+Skll        1000 'seventh strike'
+Skll        1000 'eighth strike'
+Skll        1000 'axe kick'
+Skll        1000 'ethereal wolf'
+Skll        1000 'ethereal wolf bite'
+Skll        1000 'ethereal wolf claw'
+Skll        1000 'ethereal wolf howl'
+Skll        1000 'death strike'
+Skll        1000 'deception of aura'
+Skll        1000 'ethereal snake'
+Skll        1000 'ethereal snake bite'
+Skll        1000 'leap'
+Skll        1000 'leap of torfi'
+Skll        1000 'tomba di vemon'
+Skll        1000 'niraks curse of the damned'
+Skll        1000 'thieves cant'
+Skll        1000 'ethereal snake strike'
+Skll        1000 'ethereal snake devour'
+Skll        1000 'triple backstab'
+Skll        1000 'unwavering reflexes'
+Skll        1000 'newbie slayer'
+Skll        1000 'track'
+Skll        1000 'tranquility'
+Skll        1000 'force of nature'
+Skll        1000 'forestwalk'
+Skll        1000 'mountainwalk'
+Skll        1000 'plainswalk'
+Skll        1000 'swampwalk'
+Skll        1000 'lightning storm'
+Skll        1000 'refreshing rain'
+Skll        1000 'storm seeker'
+Skll        1000 'essence of gaia'
+Skll        1000 'wilderness lore'
+Skll        1000 'wilderness adept'
+Skll        1000 'wilderness mastery'
+Skll        1000 'second shot'
+Skll        1000 'third shot'
+Skll        1000 'fourth shot'
+Skll        1000 'fifth shot'
+Skll        1000 'sixth shot'
+Skll        1000 'seventh shot'
+Skll        1000 'eighth shot'
+Skll        1000 'lightning arrow'
+Skll        1000 'skinning'
+Skll        1000 'tanning'
+Skll        1000 'fletching'
+Skll        1000 'forestry'
+Aff       465  -1   1   0          0
+Aff       464  -1   1   0          0
+Aff       462  -1   1   0          0
+Aff       463  -1   1   0          0
+Aff4       432  -1   0   0        256
+Alias      skin~ leather 2.leath~
+Alias      2~ study book~
+Alias      1~ use tan leather 105 105~
+End
+
+#OBJECT
+Nest         0
+Name         soul stone~
+ShortDescr   a soul stone~
+Description  A soul stone hovers at your waist.~
+Vnum         73
+DurabilityMax	100
+DurabilityCur	100
+ExtraFlags   570425408
+ExtraFlags2  131072
+ExtraFlags3  0
+ExtraFlags4  0
+WearFlags    32769
+WearLoc      9
+ItemType     9
+Weight       1
+Level        1
+Timer        -1
+Cost         1
+Values       2 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#END

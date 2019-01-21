@@ -1,0 +1,208 @@
+Sat Dec 15 18:22:48 2007
+: OmegmaMud is ready to rock on port 2345.
+Sat Dec 15 18:23:02 2007
+: (Unknown): n
+Sat Dec 15 18:23:03 2007
+: (Unknown): ahsile
+Sat Dec 15 18:23:05 2007
+: Ahsile: percuser
+Sat Dec 15 18:23:06 2007
+: Ahsile:  
+Sat Dec 15 18:23:07 2007
+: Ahsile: who
+Sat Dec 15 18:27:12 2007
+: Ahsile: f
+Sat Dec 15 18:27:14 2007
+: Ahsile: f ahsile
+Sat Dec 15 18:27:20 2007
+: Ahsile: f 100 101
+Sat Dec 15 18:27:24 2007
+: Ahsile: f all
+Sat Dec 15 18:27:32 2007
+: (Unknown): n
+Sat Dec 15 18:27:34 2007
+: (Unknown): ahsile
+Sat Dec 15 18:27:37 2007
+: Ahsile: percuser
+Sat Dec 15 18:27:38 2007
+: Ahsile: who
+Sat Dec 15 18:35:03 2007
+: (Unknown):  'yes
+Sat Dec 15 18:35:21 2007
+: (Unknown): Scorpia
+Sat Dec 15 18:35:24 2007
+: Scorpia: y
+Sat Dec 15 18:35:26 2007
+: Ahsile: who
+Sat Dec 15 18:35:29 2007
+: Ahsile: users
+Sat Dec 15 18:35:31 2007
+: Scorpia: 1Wonders
+Sat Dec 15 18:35:38 2007
+: Scorpia: 1Wonders
+Sat Dec 15 18:35:40 2007
+: Scorpia:  
+Sat Dec 15 18:36:09 2007
+: Ahsile: users
+Sat Dec 15 18:36:26 2007
+: Ahsile: goto 2
+Sat Dec 15 18:36:29 2007
+: Ahsile: goto 100
+Sat Dec 15 18:36:31 2007
+: Ahsile: goto 200
+Sat Dec 15 18:36:34 2007
+: Ahsile: goto 201
+Sat Dec 15 18:36:39 2007
+: Ahsile: area
+Sat Dec 15 18:36:43 2007
+: Ahsile: astat
+Sat Dec 15 18:36:47 2007
+: Ahsile: astatus
+Sat Dec 15 18:36:51 2007
+: Ahsile: wizhelp
+Sat Dec 15 18:37:29 2007
+: Ahsile: memory
+Sat Dec 15 18:37:33 2007
+: Ahsile: realmemory
+Sat Dec 15 18:38:00 2007
+: Ahsile: users
+Sat Dec 15 18:38:10 2007
+: Ahsile: echo
+Sat Dec 15 18:38:15 2007
+: Ahsile: iscore
+Sat Dec 15 18:38:41 2007
+: Ahsile: rstat
+Sat Dec 15 18:38:48 2007
+: Ahsile: look
+Sat Dec 15 18:38:50 2007
+: Ahsile: s
+Sat Dec 15 18:38:53 2007
+: Ahsile: w
+Sat Dec 15 18:38:54 2007
+: Ahsile: w
+Sat Dec 15 18:38:56 2007
+: Ahsile: w
+Sat Dec 15 18:38:58 2007
+: Ahsile: s
+Sat Dec 15 18:38:58 2007
+: Ahsile: s
+Sat Dec 15 18:39:01 2007
+: Ahsile: users
+Sat Dec 15 18:39:19 2007
+: Ahsile: users
+Sat Dec 15 18:39:30 2007
+: Ahsile: snoop 7
+Sat Dec 15 18:39:33 2007
+: Ahsile: snoop
+Sat Dec 15 18:39:36 2007
+: Ahsile: help snoop
+Sat Dec 15 18:39:55 2007
+: Scorpia: [Elder]
+Sat Dec 15 18:39:55 2007
+: Ahsile: users
+Sat Dec 15 18:40:03 2007
+: Ahsile: at 7 look
+Sat Dec 15 18:40:09 2007
+: Ahsile: goto 19901
+Sat Dec 15 18:40:12 2007
+: Ahsile: goto 19911
+Sat Dec 15 18:40:17 2007
+: Ahsile: rstat
+Sat Dec 15 18:40:25 2007
+: Ahsile: areas
+Sat Dec 15 18:40:29 2007
+: Ahsile: alist
+Sat Dec 15 18:40:38 2007
+: Scorpia: [Dragon]
+Sat Dec 15 18:41:03 2007
+: Ahsile: goto 12101
+Sat Dec 15 18:41:38 2007
+: Scorpia: [Pixie]
+Sat Dec 15 18:42:48 2007
+: Scorpia:  
+Sat Dec 15 18:43:47 2007
+: Scorpia: Elder
+Sat Dec 15 18:43:55 2007
+: Scorpia: n
+Sat Dec 15 18:43:57 2007
+: Scorpia:  
+Sat Dec 15 18:44:01 2007
+: Scorpia: gargoyle
+Sat Dec 15 18:44:24 2007
+: Scorpia: n
+Sat Dec 15 18:44:37 2007
+: Scorpia:  
+Sat Dec 15 18:44:42 2007
+: Scorpia: angel
+Sat Dec 15 18:44:52 2007
+: Scorpia: y
+Sat Dec 15 18:45:00 2007
+: Scorpia: f
+Sat Dec 15 18:45:03 2007
+: Scorpia:  
+Sat Dec 15 18:45:39 2007
+: Scorpia: beastmaster
+Sat Dec 15 18:46:45 2007
+: Scorpia: druid
+Sat Dec 15 18:46:51 2007
+: Scorpia: y
+Sat Dec 15 18:47:45 2007
+: Scorpia: y
+Sat Dec 15 18:47:47 2007
+: Scorpia:  
+Sat Dec 15 18:49:00 2007
+: Scorpia: monk
+Sat Dec 15 18:49:08 2007
+: Scorpia: y
+Sat Dec 15 18:49:10 2007
+: Scorpia:  
+Sat Dec 15 18:49:42 2007
+: Scorpia: g
+Sat Dec 15 18:50:34 2007
+: Scorpia: y
+Sat Dec 15 18:50:36 2007
+: Scorpia:  
+Sat Dec 15 18:51:07 2007
+: Scorpia: c
+Sat Dec 15 18:51:09 2007
+: Scorpia: y
+Sat Dec 15 18:52:01 2007
+: Scorpia: n
+Sat Dec 15 18:52:16 2007
+: Scorpia: y
+Sat Dec 15 18:52:21 2007
+: Scorpia:  
+Sat Dec 15 18:52:52 2007
+: Scorpia: y
+Sat Dec 15 18:53:14 2007
+: Scorpia: yes
+Sat Dec 15 18:53:22 2007
+: Scorpia: down
+Sat Dec 15 18:55:02 2007
+: Scorpia: yes
+Sat Dec 15 18:55:16 2007
+: Scorpia: read chapter
+Sat Dec 15 18:55:24 2007
+: Scorpia: help
+Sat Dec 15 18:55:49 2007
+: Scorpia: q
+Sat Dec 15 18:55:53 2007
+: Scorpia: quit
+Sat Dec 15 22:08:20 2007
+: (Unknown): y
+Sat Dec 15 22:08:24 2007
+: (Unknown): Strike
+Sat Dec 15 22:08:31 2007
+: Strike: zr27519kw
+Sat Dec 15 22:08:32 2007
+: Strike:  
+Sat Dec 15 22:08:33 2007
+: Strike: who
+Sat Dec 15 22:08:52 2007
+: Strike: quit
+Sun Dec 16 10:08:43 2007
+: Ahsile: who
+Sun Dec 16 10:08:44 2007
+: Ahsile: users
+Sun Dec 16 10:08:51 2007
+: Ahsile: f scorpia

@@ -1,0 +1,150 @@
+[  102] Bleys: apon? upon?
+[ 4150] Dalmok: northwest tower in Stonegate Castle is spelled &RNorhtwest Tower
+[25000] Hiro: for practice prayer it says The Gods place HIS prayer on you. That's wrong.
+[19901] Walius: gonna get pk'd if hes wandering in the woods
+[  110] Damian: shops
+[  110] Damian: form
+[  100] Kitti: had me playing with the pells in the warrior's guild
+[  100] Kitti: oops. ignore that :P
+[19684] Katrylle: each other has been run together into one word
+[21049] Katrylle: Directly before you stand should be stands
+[21049] Katrylle: magnificent oak thats should be that's
+[21049] Katrylle: a bit taller that should be than
+[21049] Katrylle: lowest most should prolly be lower most
+[21060] Katrylle: wizened man's descrip says all alone the consider, should be then consider
+[  158] Xett: on help file for bloodbath.   Spell is spell soell
+[ 2482] Elidrian: Tar Monster crreps ... should be creeps ?
+[ 1420] Azalin: the gazebo lies to the east
+[ 1410] Azalin: tOCOChier is spelled wrong
+[ 1425] Azalin: brook not book
+[ 4197] Nimloth: stonegate castle, kings hallway - "continues eas'y' or west", east spelt wrong
+[10161] Xion: in help newODODODODODODODODODOCOCOC
+[10161] Xion: in "help new" you say type 'skills' to see skills...... skills is not a command
+[25000] Xion: in the help group it says within 5 levels but i can group within 7 at least
+[10173] Czarina: HI
+[ 1402] Vortos: Arcadia in on the area list twice
+[10290] Vortos: when you use scent and nothing is in a direction it says you can't SEE anything
+[18383] Sitara: "... difernet types of prints; both animal.."  (different)
+[18210] Sitara: "... Of course, what concern of it is your where a whirlwind.."  (concern it is of yours...)
+[18210] Sitara: "... of leaves wants to goto?"  ( go to )
+[17135] Ghitan: everyine should be replaced with everyone, on the help file of cone of frost.
+[25000] Cogline: when i cast 'control undead' it says someone tikes control of an undead thing!
+[   74] Acheron: is commming on
+[17560] Breeze: self
+[25000] Ridel: bloodbath
+[19710] Stormchylde: leech is misspelled
+[  159] Cinnagy: I'm in A Room in the Basement, and the room description is wrong Can't go west
+[  109] Bloos: read note
+[11919] Kalinda: Basement of Brian's House - desiese should be spelled disease
+[ 3719] Kharas: reptilian guards, description, all theeth?
+[10175] Tolhor: in the item description for the hydra scale armor when you look at it it says:  A suit of armor fashioned from a hydra's scales has bee forgotten here. 
+[ 9115] Zerg: Royalle Stret 3se in Tolaria from where you enter
+[17809] Nimloth: desc 1 south of crossing main and turret, buildings spelt wrong (bulidings)
+[17809] Nimloth: desc 1 south of crossing main and turret, soul spelt wrong (sould)
+[19907] Zhyril: terawyn
+[19907] Zhyril: ignore that
+[19907] Zhyril: you actually READ these things, ty?
+[17097] Havoc: the rattle snake in naration desert, desert spelt wrong in the long desc (dessert)
+[ 9592] Kazander: shouldn't the  thieve's gloves be thieves' gloves? 
+[26569] Havoc: when the Equitarius gallops away, gallop is spelt wrong (gallopw)
+[25000] Deagol: when you take control of undead things, it says tikes instead of takes
+[25012] Jigga: elect
+[ 9533] Morgaloth: meteor swarm spell discription: " fot lots of damage."
+[25000] Zhyril: melp
+[25092] Konama: ahsile i don't have one
+[26506] Zenolthium: the baluchitherium's mobprog emote is wrong: A Balch.. grunts as you it senses your presence. Shouldn't it be A Balch.. Grunts at you as it senses your presence?
+[10144] Zenolthium: help cone of frost second sentence, everyone is mispelled. :)
+[ 8637] Zhyril: kitti
+[25124] Gorgan: pass to aurum for a long desc says "paper likes here"
+[25057] Kaine: test
+[25124] Zhyril: hmm
+[26253] Lalana: n
+[  159] Thrag: there are a couple mistakes in direction in the basement of newbie school
+[  146] Daffydd: in the help file for prayer spill should be spell
+[ 9584] Yumuri: in the help file for bloodbath spell is spelled wrong
+[19674] Garwin: from hear
+[10114] Kandice: soell should be spell in the help file for bloodbath
+[25000] Daffydd: in the help file for cone of frost the word everyine can be found instead of everyone
+[25094] Hugin: schoolar (scholar)
+[30004] Hugin: annother (another)
+[17419] Hugin: Mountian (Mountain) Peak
+[ 9526] Hugin: inteded intended
+[ 9143] Hugin: aquired (acquired)
+[ 9108] Hugin: Queest (Queen)
+[ 9134] Hugin: emediately (immediately)
+[ 8193] Hugin: sculpturef (sculptures)
+[18383] Hugin: difernet (different)
+[18377] Hugin: youself (yourself)
+[17543] Hugin: unatural (unnatural)
+[21531] Hugin: throught (through)
+[28816] Hugin: adjar ajar
+[25099] Andovar: zhy
+[11905] Tempus: 3s from front door, Brian's house, excists
+[25124] Tempus: Quest Central; Main town; lines, should be line (or one desk)
+[25124] Nimloth: anyone's body is veiled in an instance *or* pure chaos.
+[  101] Sorial: in the help file for the prayer spell: The spill PRAYER can give you many other enhancements, such as more
+[25000] DarkDante: In the help for Sanctuary it says "cast sanctuary <targetr>"
+[25119] Toriel: zhy
+[ 1165] JUXtaMAGE: Chipmunks at manor says A tiny little chipmunk sits her, nibbling an acorn. should say sits HERE
+[19917] Zhyril: emme
+[ 9535] Mordred: in the help file for "DEATH" it says Miraculously, however, your gold stays with you...yet it doesn't..
+[10289] Kyoo: in the cone of frost help file
+[ 9520] Stacy: object lethal rapier's short description says 'Letha Rapoer'
+[19673] Arkei: give should be gives in the shield block help file
+[21013] Arkei: In the serf village, the description for a hut has "the holes in the roof are mostly take upt by well..."
+[  735] Arkei: At further down the central cave in the drawven fort it says "you'ld"
+[ 2487] Arkei: The second key in the tar pits is labeled "a key sits on the ground" no matter where it is.
+[  103] Thaliak: one up from the newbie helper: you use and three times in a sentence.
+[  117] Thaliak: Hallway Above the Sign Maker's - "the swearing you hear earlier". "hear" should have a d at the end.
+[  118] Thaliak: The Sign Maker's Residence: You might put a period after stress, or delete though and put but before you're.
+[  118] Thaliak: The Sign Makers Residence: Shouldn't stressing be stressed?
+[  119] Thaliak: Last Point - "if resting to th sounds of fighting"
+[  119] Thaliak: Last point - Put a period before however. It sounds awkward after a comma.
+[  125] Thaliak: "From far away, You..." You shouldn't be capitalized.
+[  140] Thaliak: Along the east wall(east, s from healer) - "from is tabed, and the lines are uneven. 
+[25011] Thaliak: main street 2 north of the crossing of main and Kragar - sould should be soul.
+[ 1174] Thaliak: The Labrinth - "this place seams Much more dangereous." Is much capitalized for emphasise?
+[  159] Thaliak: A room in the basement(west hall) - You can go east back down the hallway or go west or east. The last or east should be deleted.
+[  165] Thaliak: The description for the kobold in the mud school might need a comma after strength.
+[25049] Thaliak: astral street west (1 east from intersection) - shouldn't cities be city?
+[25063] Thaliak: Intersection of market and turret - wouldn't the customer be the only one who though he/she was cheated?
+[25064] Thaliak: Market Street East(one west of the intersection of Stynx and Market) - Market is used in the middle of a sentence. It doesn't make sense.
+[25089] Thaliak: Merf's Barkery - Shouldn't Frem be Merf?
+[25057] Thaliak: Just a though. Rather then saying "The major market center in all of the realm..." on Market street West, put "As it is the major..."
+[25099] Thaliak: "I don't know what you meanBank Options." This popped up when I typed bank deposit to see if you could deposit all of your gold without knowing how much you had.
+[17246] Thaliak: Dravenow Forst(north of the bard's housee) - not is spelled no.
+[17200] Thaliak: Dravenow Forest(1 east of the spring) - "the tree is starting to lose it's density." Shouldn't tree be tree cover or something?
+[17201] Thaliak: Dravenow Forest(one e, and north of the Spring) - "Even with the lack of light this forest recieves, there are a couple color of leeves..." Use "There are a few different colors on the leeves that grow within the forest."
+[17190] Thaliak: Kalithrain Mountains(s, and e of the massive rock) - It says you can hear birds chirping to the west, but the forest is to the east.
+[17186] Thaliak: Psionist Skill List - confusionimproved concentration"
+[19701] Thaliak: In the Methidoral Fountain - there should be a comma after "onto you from the fountain."
+[25000] AtLaS: there is a typo in help Bloodbath. It says 'healing soell' instead of 'healing spell'
+[ 2482] Azrael: tar monsters long desc in tar pits
+[21003] Geniya: in help frost blade should read "If the weapon has been enchanted by frost blade.." not "buy frost blade"
+[17069] Geniya: in this room the line in the hieght of your excitement.. should be in the height of your excitement.  
+[18537] Cherri: Gasping, you just manage to sidestep a huge steel bare-trap that some negligent hunter has left set on the side of the path. (should be bear trap) (unless of course you're actually trying to catch bare people..in which case..forget I said anything)
+[  103] Aeron: in the newbie training rooms Halls of Sanctum, i think its decor not decour, and traveller not traveler
+[11906] Juxta: Dinning
+[11906] Aeron: Brian's house should have a dining room, not dinning room ;)
+[21759] Deagol: slexin desc, "quiver" not "quivver"
+[  117] Septen: in the hallway above sign maker's, in the second line, it says 'you hear earlier' but it should be 'heard'
+[  184] Septen: last line of the recall help file has the word 'innactive' which should be 'inactive'
+[28824] Rhain: in the guard at the asylum..A Guard bitches aobut the pay. (should be about)
+[28823] Rhain: The Wall sais: Hi there I'm Stoned (or the builder was..either way another typo in the asylum) should be says
+[26094] Mithrawyn: Victoria's Magic (future realm) Wicken is horribly misspelt. It's "Wiccan"
+[ 2796] Stormblade: Psionisist is really spelled Psionicist
+[10101] Sesshomaru: kaine
+[ 9403] Tyrion: Wed Jan 26 21:47:37 2005 :: 
+
+[31949] Vulu: Sat Mar 26 18:28:40 2005 :: 2nd to last line, "time t answer"
+
+[11919] Vulu: Sat Mar 26 21:41:21 2005 :: desiese should be spelled disease
+
+[12001] Terawyn: Thu Mar 31 21:45:41 2005 :: 
+
+[  114] BioHazard: Sat May 14 20:49:33 2005 :: 
+
+[25001] BioHazard: Sat May 14 21:01:32 2005 :: 
+
+[25000] Rocktheus: Sat Aug 12 20:25:34 2006 :: 
+

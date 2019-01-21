@@ -1,0 +1,118 @@
+Sat Nov 10 12:43:03 2007
+: OmegmaMud is ready to rock on port 2345.
+Sun Nov 11 13:35:27 2007
+: (Unknown): y
+Sun Nov 11 13:35:28 2007
+: (Unknown): ahsile
+Sun Nov 11 13:35:30 2007
+: Ahsile: jacqlou84
+Sun Nov 11 13:35:34 2007
+: (Unknown): y
+Sun Nov 11 13:35:35 2007
+: (Unknown): ahsile
+Sun Nov 11 13:35:36 2007
+: Ahsile: percuser
+Sun Nov 11 13:35:36 2007
+: Ahsile:  
+Sun Nov 11 13:35:37 2007
+: Ahsile: who
+Mon Nov 12 13:58:45 2007
+: (Unknown): n
+Mon Nov 12 13:58:51 2007
+: (Unknown): Tyrion
+Mon Nov 12 13:58:54 2007
+: Tyrion: TyNlWt3c2e1oA
+Mon Nov 12 13:59:15 2007
+: (Unknown): n
+Mon Nov 12 13:59:16 2007
+: (Unknown): ahsile
+Mon Nov 12 13:59:19 2007
+: Ahsile: percuser
+Mon Nov 12 13:59:26 2007
+: Ahsile: config -ansi
+Mon Nov 12 13:59:28 2007
+: Ahsile: clear
+Mon Nov 12 13:59:29 2007
+: Ahsile: who
+Mon Nov 12 13:59:32 2007
+: Ahsile: i
+Mon Nov 12 13:59:36 2007
+: Ahsile: rem all
+Mon Nov 12 13:59:45 2007
+: Ahsile: drop all
+Mon Nov 12 13:59:51 2007
+: Ahsile: get soul
+Mon Nov 12 13:59:53 2007
+: Ahsile: wear soul
+Mon Nov 12 13:59:56 2007
+: Ahsile: i
+Mon Nov 12 13:59:57 2007
+: Ahsile: eq
+Mon Nov 12 14:00:01 2007
+: Ahsile: purge
+Mon Nov 12 14:00:04 2007
+: Ahsile: notes
+Mon Nov 12 14:00:06 2007
+: Ahsile: look self
+Mon Nov 12 14:00:14 2007
+: Ahsile: save
+Mon Nov 12 14:00:16 2007
+: Ahsile: quit
+Mon Nov 12 14:00:21 2007
+: (Unknown): n
+Mon Nov 12 14:00:24 2007
+: (Unknown): ahsile
+Mon Nov 12 14:00:25 2007
+: Ahsile: percuser
+Mon Nov 12 14:00:26 2007
+: Ahsile:  
+Mon Nov 12 14:00:29 2007
+: Ahsile: password
+Mon Nov 12 14:00:37 2007
+: Ahsile: password percuser password
+Mon Nov 12 14:00:41 2007
+: Ahsile: quit
+Mon Nov 12 14:02:21 2007
+: (Unknown): n
+Mon Nov 12 14:02:23 2007
+: (Unknown): immortal
+Mon Nov 12 14:02:27 2007
+: Immortal: password
+Mon Nov 12 14:02:28 2007
+: Immortal:  
+Mon Nov 12 14:02:33 2007
+: Immortal: password password password
+Mon Nov 12 14:02:35 2007
+: Immortal: quit
+Mon Nov 12 14:05:20 2007
+: (Unknown): n
+Mon Nov 12 14:05:21 2007
+: (Unknown): ahsile
+Mon Nov 12 14:05:24 2007
+: Ahsile: password
+Mon Nov 12 14:05:25 2007
+: Ahsile:  
+Mon Nov 12 14:05:31 2007
+: Ahsile: password password percuser
+Mon Nov 12 14:05:36 2007
+: Ahsile: quit
+Mon Nov 12 17:39:15 2007
+: (Unknown): n
+Mon Nov 12 17:39:17 2007
+: (Unknown): ahsile
+Mon Nov 12 17:39:19 2007
+: Ahsile: percuser
+Mon Nov 12 17:39:19 2007
+: Ahsile:  
+Mon Nov 12 17:39:20 2007
+: Ahsile: who
+Mon Nov 12 17:39:22 2007
+: Ahsile: config +ansi
+Mon Nov 12 17:39:26 2007
+: Ahsile: config -ansi
+Mon Nov 12 17:39:27 2007
+: Ahsile: who
+Mon Nov 12 17:39:30 2007
+: Ahsile: config +ansi
+Mon Nov 12 17:39:31 2007
+: Ahsile: who
